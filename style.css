@@ -21,7 +21,7 @@ html {
   width: 18rem;
   height: 19rem;
   background-color: #EFEA63;
-  border-radius: 40rem/40rem;
+  border-radius: 50%;
   position: relative;
   box-shadow: inset 6px 42px 20px 0 #8AD000, inset 18px 89px 12px 0 #DCE72C, 12px 18px 17px 0px #83c100;
 }
